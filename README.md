@@ -15,6 +15,6 @@ This project is made using <a href ="https://www.meteor.com/">Meteor Framework</
 Any change you will make in the code will directly shown in the browser where app is opened.
 
 <h1>Contribute or Bugs</h1>
-If you found any bug or any suggestions than mail me at <a class="tooltipped" data-position="bottom" data-delay="10" data-tooltip="Email Me" href="mailto:sahil.rajput.0196@gmail.com" target="_blank">Sahil Rajput</a>
+If you found any bug or any suggestions than mail me at <a class="tooltipped" data-position="bottom" data-delay="10" data-tooltip="Email Me" href="mailto:sahil.rajput.0196@gmail.com" target="_blank">Sahil Rajput (sahil.rajput.0196@gmail.com)</a>
 
 Thank You!
