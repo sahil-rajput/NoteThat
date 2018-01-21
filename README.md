@@ -1,6 +1,6 @@
 <h1>NoteThat</h1>
 NoteThat is an app for taking instant notes.<br>
-In this app user can create his/her account for taking notes. No two users have permission to delete each other notes.
+In this app user can create his/her account for taking notes.
 <br>
 <br><b>Main Page</b></br>
 <img width="1280" alt="mainpage" src="https://user-images.githubusercontent.com/20112458/35192014-ee809424-feae-11e7-9ea6-6f8a47c8f66a.png">
