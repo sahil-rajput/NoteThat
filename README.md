@@ -2,13 +2,13 @@
 NoteThat is an app for taking instant notes. This is a beta version and not a complete project.
 In this app user can create his/her account for taking notes. No two users have permission to delete each other notes.
 <br><b>App Main Page</b></br>
-![alt text](Project\ Images/MainPage.png "App Main Page")
+![alt text](Project Images/MainPage.png "App Main Page")
 <br><b>SignIn Page</b></br>
-![alt text](Project\ Images/SignIn.png "SignIn")
+![alt text](Project Images/SignIn.png "SignIn")
 <br><b>Add Notes Page</b></br>
-![alt text](Project\ Images/AddNotes.png "Add Notes")
+![alt text](Projec Images/AddNotes.png "Add Notes")
 <br><b>Show Notes Page</b></br>
-![alt text](Project\ Images/ShowNotes.png "Show Notes")
+![alt text](Projec Images/ShowNotes.png "Show Notes")
 
 <h1>Technology Used</h1>
 This project is made using <a href ="https://www.meteor.com/">Meteor Framework</a>, for styling I used <a href ="https://atmospherejs.com/materialize/materialize">Materialize package</a> and I used <a href = "https://www.mongodb.com/">MongoDB</a> for data base.
