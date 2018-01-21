@@ -18,11 +18,10 @@ In this app user can create his/her account for taking notes. No two users have 
 This project is made using <a href ="https://www.meteor.com/">Meteor Framework</a>, for styling I used <a href ="https://atmospherejs.com/materialize/materialize">Materialize package</a> and I used <a href = "https://www.mongodb.com/">MongoDB</a> for data base.
 <br>
 <h1>Tutorial</h1>
-<li><a href = "https://www.meteor.com/tutorials/blaze/creating-an-app">Found Here</a><li>
+<li><a href = "https://www.meteor.com/tutorials/blaze/creating-an-app">Found Here</a></li>
   <br>
 <h1>How to use</h1>
-  <br>
-  <b>Terminal</b>
+<br><br>
 <img width="570" alt="terminal" src="https://user-images.githubusercontent.com/20112458/35192036-464b04a0-feaf-11e7-9a3e-030bb80136d6.png">
   <br><br>
 <li> Download Meteor from <a href="https://www.meteor.com/install">here</a></li>
