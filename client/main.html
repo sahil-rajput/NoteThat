@@ -1,0 +1,61 @@
+<head>
+  <title>NoteThat</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+
+<body>
+  <nav class="blue">
+    <div class="container">
+      <div class="nav-wrapper">
+        <a href="#" class="brand-logo">NoteThat</a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          {{#if currentUser}}
+            <li class="nav-item">
+               <a class="waves-effect waves-light" href="#addModal">+Note</a>
+            </li>
+          {{/if}}
+          <li class="nav-item">
+            {{> loginButtons}}
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div class="container">
+    <h1>Notes</h1>
+    {{#if currentUser}}
+      <ul class="collection">
+        {{#each notes}}
+          {{> note}}
+        {{/each}}
+      </ul>
+    {{else}}
+      <p>Login to access!</p>
+    {{/if}}
+  </div>
+
+  {{> add}}
+
+  <script>
+    $(document).ready(function(){
+      $('.modal').modal();
+    });
+  </script>
+</body>
+<template name="note">
+  <li class="collection-item">
+    {{text}}: <strong>By {{username}}</strong>
+    <a href="#" class="delete-note secondary-content"><i class="material-icons">close</i></a>
+  </li>
+</template>
+<template name="add">
+  <!-- Modal Structure -->
+  <div id="addModal" class="modal">
+    <div class="modal-content">
+      <h3>+Note</h3>
+      <form class="add-form">
+        <input type="text" name="text" placeholder="Add note...">
+      </form>
+    </div>
+  </div>
+</template>
