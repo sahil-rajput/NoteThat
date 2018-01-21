@@ -1,21 +1,21 @@
 <h1>NoteThat</h1>
 NoteThat is an app for taking instant notes. This is a beta version and not a complete project.
 In this app user can create his/her account for taking notes. No two users have permission to delete each other notes.
-<br><b>App Main Page</b></br>
-![alt text](Project Images/MainPage.png "App Main Page")
+<br><b>Main Page</b></br>
+<img width="1280" alt="mainpage" src="https://user-images.githubusercontent.com/20112458/35192014-ee809424-feae-11e7-9ea6-6f8a47c8f66a.png">
 <br><b>SignIn Page</b></br>
-![alt text](Project Images/SignIn.png "SignIn")
+<img width="1280" alt="signin" src="https://user-images.githubusercontent.com/20112458/35192017-0a72229c-feaf-11e7-8b35-3a7175d15dcb.png">
 <br><b>Add Notes Page</b></br>
-![alt text](Projec Images/AddNotes.png "Add Notes")
+<img width="1280" alt="addnotes" src="https://user-images.githubusercontent.com/20112458/35192019-1b7e62a8-feaf-11e7-83ab-0860b2517fb2.png">
 <br><b>Show Notes Page</b></br>
-![alt text](Projec Images/ShowNotes.png "Show Notes")
-
+<img width="1280" alt="shownotes" src="https://user-images.githubusercontent.com/20112458/35192026-2ef4775a-feaf-11e7-9e4b-41d23e9a9754.png">
 <h1>Technology Used</h1>
 This project is made using <a href ="https://www.meteor.com/">Meteor Framework</a>, for styling I used <a href ="https://atmospherejs.com/materialize/materialize">Materialize package</a> and I used <a href = "https://www.mongodb.com/">MongoDB</a> for data base.
 
 <h1>Tutorial</h1>
 <li><a href = "https://www.meteor.com/tutorials/blaze/creating-an-app">Found Here</a><li>
 <h1>How to use</h1>
+<img width="570" alt="terminal" src="https://user-images.githubusercontent.com/20112458/35192036-464b04a0-feaf-11e7-9a3e-030bb80136d6.png">
 <li> Download Meteor from <a href="https://www.meteor.com/install">here</a></li>
 <li> Open Terminal and go to the project directory.</li>
 <li> Type "meteor" (without quotes) to run the app</li>
